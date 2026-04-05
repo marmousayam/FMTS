@@ -139,9 +139,6 @@
         <mxCell id="8Myj3xMpYg5_457f8rJ4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 153, 255));&quot;&gt;`Sig(l) = {j | A_&quot;Contrastive&quot;(j) &amp;lt;q_(in)}`&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="225" x="392.5" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="LVEJTlVq8Gt3bllcRzrV-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Done" vertex="1">
-          <mxGeometry height="30" width="60" x="357.5" y="220" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
