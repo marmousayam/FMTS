@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F1Z-zHuDeYeX3ajzMRD5-1" parent="1" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;`bar h_j^(l)(x) = 1/n sum_(i)^n H_(i,j)^(l) (x)&amp;nbsp; -&amp;gt;` mean activation of the neuron j in layer l across position&amp;nbsp;&amp;nbsp;`A^((l)) (j | x) = sqrt(1/n ∑_(i)^n〖(H_(i,j)^((l)) (x) − h ̅_j^((l)) (x))〗^2 ) -&amp;gt;` activation score of the neuron j in layer l with the given input x&lt;/span&gt;" vertex="1">
-          <mxGeometry height="160" width="550" x="245" y="440" as="geometry" />
+        <mxCell id="F1Z-zHuDeYeX3ajzMRD5-1" parent="1" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;`bar h_j^(l)(x) = 1/n sum_(i)^n H_(i,j)^(l) (x)&amp;nbsp; -&amp;gt;`&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean activation of the neuron j in layer l across position&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;`A^((l)) (j | x) = sqrt(1/n ∑_(i)^n〖(H_(i,j)^((l)) (x) − h ̅_j^((l)) (x))〗^2 ) -&amp;gt;`&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;activation score of the neuron j in layer l with the given input x&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="550" x="245" y="420" as="geometry" />
         </mxCell>
         <mxCell id="F1Z-zHuDeYeX3ajzMRD5-15" connectable="0" parent="1" style="group;fillColor=light-dark(default, #5d5656);gradientColor=none;gradientDirection=north;opacity=0;" value="" vertex="1">
           <mxGeometry height="390" width="30.00000000000003" x="135" y="330" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry height="30" width="60" x="10" y="490" as="geometry" />
         </mxCell>
         <mxCell id="F1Z-zHuDeYeX3ajzMRD5-57" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="80" width="10" x="215" y="465" as="geometry" />
+          <mxGeometry height="120" width="10" x="215" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
